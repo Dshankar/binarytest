@@ -1,3 +1,3 @@
 # Hi from Binary
 
-More testing
+More testing, plus binary data trolololo
